@@ -71,7 +71,7 @@ The YOLOv8 Inference Validation Tool is a comprehensive desktop application desi
 
 **No Python installation required!**
 
-1. Download the latest release from [Releases](https://github.com/kkolge/yolov8-validator/releases)
+1. Download the latest release from [Releases](https://github.com/kkolge/validate_AI_inference/releases)
 2. Extract and run:
    ```bash
    chmod +x YOLOv8_Validator
@@ -82,8 +82,8 @@ The YOLOv8 Inference Validation Tool is a comprehensive desktop application desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kkolge/yolov8-validator.git
-   cd yolov8-validator
+   git clone https://github.com/kkolge/validate_AI_inference.git
+   cd validate_AI_inference
    ```
 
 2. Install dependencies:
