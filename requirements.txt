@@ -1,0 +1,9 @@
+# Core dependencies
+Pillow>=10.0.0
+PyYAML>=6.0
+
+# Build dependencies
+pyinstaller>=6.0
+
+# Development dependencies
+pytest>=9.0  # For testing
