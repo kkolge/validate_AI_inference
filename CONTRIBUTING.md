@@ -8,7 +8,7 @@ Thank you for considering contributing to this project! This document provides g
 
 If you find a bug:
 
-1. Check [existing issues](https://github.com/yourusername/yolov8-validator/issues) to avoid duplicates
+1. Check [existing issues](https://github.com/kkolge/yolov8-validator/issues) to avoid duplicates
 2. Create a new issue with:
    - Clear, descriptive title
    - Steps to reproduce
@@ -32,7 +32,7 @@ Feature requests are welcome! Please:
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/yolov8-validator.git
+   git clone https://github.com/kkolge/yolov8-validator.git
    cd yolov8-validator
    ```
 3. Create a virtual environment:

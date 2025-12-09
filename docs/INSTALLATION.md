@@ -6,7 +6,7 @@
 
 **No Python installation required!**
 
-1. Download the latest release from the [Releases page](https://github.com/yourusername/yolov8-validator/releases)
+1. Download the latest release from the [Releases page](https://github.com/kkolge/yolov8-validator/releases)
 2. Extract the archive
 3. Make executable (Linux/macOS):
    ```bash
@@ -41,7 +41,7 @@ python --version
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yolov8-validator.git
+   git clone https://github.com/kkolge/yolov8-validator.git
    cd yolov8-validator
    ```
 
@@ -253,7 +253,7 @@ Simply delete the `YOLOv8_Validator` file.
 
 - **Documentation**: See [README.md](../README.md)
 - **User Manual**: See [USER_MANUAL.md](USER_MANUAL.md)
-- **Issues**: Report on [GitHub Issues](https://github.com/yourusername/yolov8-validator/issues)
+- **Issues**: Report on [GitHub Issues](https://github.com/kkolge/yolov8-validator/issues)
 
 ---
 
